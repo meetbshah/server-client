@@ -3,15 +3,15 @@ server-client
 
 This is basic server client programme.
 
-Compilation Example 
+####Compilation Example:
 
-gcc server.c -o server
+`gcc server.c -o server`
 
-gcc client.c -o client
+`gcc client.c -o client`
 
-Execute programme: 
+####Execute programme: 
 
 You need to open two terminal and frist execute server then execute client.
 
-./server
-./client
+`./server` 
+`./client`
