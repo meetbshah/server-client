@@ -11,7 +11,7 @@ This is basic server client programme.
 
 ####Execute programme: 
 
-You need to open two terminal and frist execute server then execute client.
+You need to open two terminal and first execute server then execute client.
 
 `./server` 
 `./client`
